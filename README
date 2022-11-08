@@ -1,0 +1,7 @@
+# ExpressJS
+
+```js
+npm i express-generator -g
+
+express --view=pug 
+```
